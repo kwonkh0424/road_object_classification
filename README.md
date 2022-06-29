@@ -1,6 +1,6 @@
 # Pothole Classification
 
-This project aims to train a neutal network model that can alert drivers, cyclists, and pedestrians of road irregularities. We are focusing specifically on potholes for this model because one third of all traffic fatalities in America are caused by poor road conditions and potholes are the most costly/deadly obstacle. Even when potholes are not fatal, drivers can expect to pay an average of $377 for hitting a pothole and damaging their vehicle. 
+This project aims to train a neural network model that can alert drivers, cyclists, and pedestrians of road irregularities. We are focusing specifically on potholes for this model because one third of all traffic fatalities in America are caused by poor road conditions and potholes are the most costly/deadly obstacle. Even when potholes are not fatal, drivers can expect to pay an average of $377 for hitting a pothole and damaging their vehicle. 
 
 The goal of the project is to build a model that can be integrated with a camera and mounted on a car, bike, or walker to alert the user while they are approaching a dangerous pothole to avoid the area.
 
