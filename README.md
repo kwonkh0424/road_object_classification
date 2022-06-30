@@ -18,7 +18,11 @@ To improve upon our baseline, we added an additional data set to increase our tr
 
 After researching some papers, we also found that image augmentations helped researchers increase model performance and increase data set size. Rotations, horizontal flip, brightness, and contrast were randomly applied to images during processing to increase model performance when the camera has a poor angle or during different weather/lighting conditions.
 
-Finally, we tested a few different models and hyperparameter tuning to find the best combination of model, learning rate, and optimizer. The models tested included vanilla CNN, CNN with dropout, VGG, AlexNet, and ResNet...
+Finally, we tested a few different models and hyperparameter tuning to find the best combination of model, learning rate, and optimizer. The models tested included vanilla CNN, CNN with dropout, VGG, AlexNet, and ResNet.
+
+Model|Training Accuracy|Training Recall|Valid Accuracy|Valid Recall
+:----:|:-------:|:--------------:|:-------------:|:------------:
+Vanilla CNN|58%|54%|50%|53%
 
 # References
 
