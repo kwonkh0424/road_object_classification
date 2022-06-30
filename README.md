@@ -26,9 +26,10 @@ Vanilla CNN|58%|54%|50%|53%
 CNN|98%|98%|82%|90%
 CNN Dropout|98%|99%|85%|100%
 AlexNet|72%|100%|62%|100%
-VGG16|91.6%|100%|77%|100%
-ResNet|93%|93%|83%|90%
+VGG16|91.6%|100%|77%|98%
+ResNet|96%|100%|95%|100%
 
+** For pre-trained models, we froze all layers except for the last layer
 
 # References
 
